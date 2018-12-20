@@ -43,6 +43,8 @@ The shapefile topology was checked and minor corrections made using the check_sh
 * `USCD`: U.S. Congressional District ID
 * `SEND`: Texas State Senate District ID
 * `HD`: Texas State House District ID
+* `AREA`: Area of vtd in square kilometers
+* `PERIM`: Perimeter of vtd in kilometers
 
 ## Projection
 This shapefile uses a NAD83/Texas State Mapping System projection (EPSG: 3081).
