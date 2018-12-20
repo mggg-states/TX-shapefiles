@@ -45,7 +45,7 @@ The shapefile topology was checked and minor corrections made using the check_sh
 * `HD`: Texas State House District ID
 
 ## Projection
-This shapefile uses a NAD83/Texas State Mapping System projection or EPSG: 3081.
+This shapefile uses a NAD83/Texas State Mapping System projection (EPSG: 3081).
 
 ## Rating
 We give this shapefile an A rating. All data was obtained from the state government and was processed by MGGG staff.
