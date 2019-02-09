@@ -41,7 +41,7 @@ The shapefile topology was checked and minor corrections made using the check_sh
 * `PRES16D`: Number of votes for 2016 Democratic presidential candidate 
 * `PRES16R`: Number of votes for 2016 Republican presidential candidate
 * `TOTVR16`: Number of registered voters in 2016 general election
-* TOTTO16`: Number of ballots cast in 2016 general election
+* `TOTTO16`: Number of ballots cast in 2016 general election
 * `USCD`: U.S. Congressional District ID
 * `SEND`: Texas State Senate District ID
 * `HD`: Texas State House District ID
