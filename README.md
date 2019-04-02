@@ -1,7 +1,7 @@
 # Texas Election Shapefile
 This shapefile was obtained from the Texas Legislative Council and processed by members of the Voting Rights Data Institute (VRDI) and the Metric Geometry and Gerrymandering Group (MGGG). VRDI was a 2018 summer intensive sponsored by MGGG at Tufts and MIT, with major support from a Bose Research Grant at MIT and from the Jonathon M. Tisch College of Civic Life at Tufts.
 
-The shapefile is currently available for download here: people.csail.mit.edu/ddeford/TX_vtds.zip.
+The shapefile is currently available for download here: https://people.csail.mit.edu/ddeford/TX_vtds.zip.
 
 ## Sources
 Election data was downloaded from the Texas Legislative Council’s Texas Redistricting website (https://tlc.texas.gov/redist/data/data.html). In addition to the voting tabulation district shapefile and election data CSV files, shapefiles for state senate districts (PlanS172) and state house districts (PlanH407) were also downloaded. A 115th U.S. Congressional district shapefile was obtained from the Census (https://www.census.gov/cgi-bin/geo/shapefiles/index.php). All demographic information was compiled by the Texas Legislative Council using 2010 Census data.
