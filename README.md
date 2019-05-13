@@ -4,10 +4,10 @@ This shapefile was obtained from the Texas Legislative Council and processed by 
 The shapefile is currently available for download here: https://people.csail.mit.edu/ddeford/TX_vtds.zip.
 
 ## Sources
-Election data was downloaded from the Texas Legislative Council’s Texas Redistricting website (https://tlc.texas.gov/redist/data/data.html). In addition to the voting tabulation district shapefile and election data CSV files, shapefiles for state senate districts (PlanS172) and state house districts (PlanH407) were also downloaded. A 115th U.S. Congressional district shapefile was obtained from the Census (https://www.census.gov/cgi-bin/geo/shapefiles/index.php). All demographic information was compiled by the Texas Legislative Council using 2010 Census data.
+Election data was downloaded from the [Texas Legislative Council’s Texas Redistricting website](https://tlc.texas.gov/redist/data/data.html). In addition to the voting tabulation district shapefile and election data CSV files, shapefiles for state senate districts (PlanS172) and state house districts (PlanH407) were also downloaded. A 115th U.S. Congressional district shapefile was obtained from the [Census](https://www.census.gov/cgi-bin/geo/shapefiles/index.php). All demographic information was compiled by the Texas Legislative Council using 2010 Census data.
 
 ## Processing
-The shapefile topology was checked and minor corrections made using the check_shapefile_connectivity.py script (available in https://github.com/gerrymandr/Preprocessing). Roundoff (also available in https://github.com/gerrymandr/Preprocessing) was used to assign voting tabulation districts with U.S. congressional, state senate, and state house districts.
+The shapefile topology was checked and minor corrections made using the check_shapefile_connectivity.py script in [MGGG's Preprocessing Github repository](https://github.com/gerrymandr/Preprocessing). [Roundoff](https://github.com/gerrymandr/Preprocessing) was used to assign voting tabulation districts with U.S. congressional, state senate, and state house districts.
 
 ## Metadata
 * `CNTYVTD`: VTD unique identifier
